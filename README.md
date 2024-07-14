@@ -1,4 +1,7 @@
 # MLMlib
+
+![Screenshot 2024-07-14 040050](https://github.com/user-attachments/assets/7d0d7ea9-8ef0-40c7-8c9b-0a2f9deec5ea)
+
 ## Overview
 MLMlib is a flexible robotics coding library based on the PROS Framework, which can be used with other libraries like Lemlib and EZ-Template. MLMlib focuses on augmenting the UI experience of teams, providing a cortex UI template which can help teams easily build a UI to display on their cortex. 
 ---
